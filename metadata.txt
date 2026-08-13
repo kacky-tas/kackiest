@@ -1,0 +1,621 @@
+-200	2.74	maB-TM
+-199	6.33	Thoman
+-198	6.31	Thoman
+-197	6.78	Thoman
+-196	9.13	Thoman
+-195	6.37	Thoman
+-194	10.50	Thoman
+-193	5.78	Thoman
+-192	5.43	Thoman
+-191	10.76	Thoman
+-190	6.61	Thoman
+-189	10.15	faiby
+-188	7.57	faiby
+-187	4.88	Thoman
+-186	6.66	Thoman
+-185	7.39	faiby
+-184	6.27	Thoman
+-183	6.69	igntuL
+-182	8.47	Thoman
+-181	6.17	Thoman
+-180	14.27	faiby
+-179	16.65	igntuL faiby
+-178	7.75	Thoman
+-177	12.43	Vogtek
+-176	10.25	Thoman
+-175	7.07	igntuL
+-174	9.05	igntuL
+-173	11.08	Thoman
+-172	13.43	Thoman
+-171	9.89	igntuL
+-170	9.65	Thoman
+-169	8.93	Thoman
+-168	12.25	Thoman
+-167	10.47	Thoman
+-166	4.13	igntuL
+-165	6.55	Thoman 
+-164	10.21	Thoman igntuL
+-163	10.99	Thoman igntuL
+-162	8.28	igntuL
+-161	5.12	igntuL
+-160	6.14	Thoman
+-159	4.13	Thoman
+-158	6.33	Thoman
+-157	6.83	Thoman
+-156	8.66	Thoman
+-155	5.43	Thoman
+-154	7.09	Thoman
+-153	8.95	Thoman
+-152	9.64	Thoman
+-151	12.81	Thoman
+-150	11.18	Thoman
+-149	19.81	Thoman
+-148	6.94	KAT
+-147	10.50	Thoman
+-146	8.29	igntuL
+-145	8.57	igntuL
+-144	7.18	igntuL
+-143	6.11	Thoman
+-142	5.96	Thoman
+-141	5.22	igntuL
+-140	9.50	Thoman
+-139	13.96	Thoman
+-138	7.82	igntuL
+-137	5.49	igntuL
+-136	7.83	Thoman
+-135	9.22	Thoman
+-134	8.34	Thoman
+-133	13.89	igntuL
+-132	9.17	f1uffy
+-131	15.31	igntuL faiby
+-130	7.56	igntuL
+-129	9.38	igntuL
+-128	9.05	Vogtek
+-127	9.79	Thoman
+-126	6.71	Thoman
+-125	4.77	Leva
+-124	5.21	uncleenk
+-123	10.90	igntuL
+-122	6.23	Thoman
+-121	8.93	Thoman
+-120	7.24	Thoman faiby
+-119	5.70	Thoman
+-118	6.94	faiby
+-117	4.84	faiby
+-116	7.34	Thoman
+-115	13.69	Leva
+-114	14.19	igntuL
+-113	10.43	igntuL
+-112	12.83	igntuL
+-111	8.70	igntuL
+-110	8.22	igntuL
+-109	8.43	Thoman
+-108	3.82	igntuL
+-107	10.53	faiby
+-106	6.81	Thoman
+-105	9.32	wildmagnus
+-104	7.28	igntuL
+-103	7.16	igntuL
+-102	6.07	faiby
+-101	11.81	Drarker
+-100	16.45	igntuL
+-99		13.94	KAT
+-98		11.91	Vogtek
+-97		10.97	faiby
+-96		8.52	mufat igntuL
+-95		7.04	Thoman
+-94		9.27	Leva
+-93		6.73	faiby
+-92		8.13	faiby
+-91		10.51	igntuL
+-90		7.40	igntuL
+-89		14.21	faiby
+-88		10.47	igntuL
+-87		14.60	faiby
+-86		6.39	igntuL
+-85		7.12	Thoman
+-84		5.40	faiby
+-83		15.57	igntuL
+-82		16.91	igntuL faiby
+-81		4.88	Thoman
+-80		6.06	faiby
+-79		10.88	faiby
+-78		6.42	Thoman faiby
+-77		6.35	Leva
+-76		10.10	faiby
+-75		6.08	wildmagnus
+-74		24.27	faiby
+-73		9.37	faiby
+-72		7.90	faiby
+-71		8.36	igntuL
+-70		8.40	faiby
+-69		5.87	faiby
+-68		9.82	Leva
+-67		8.38	faiby
+-66		6.80	faiby
+-65		5.92	igntuL
+-64		5.48	faiby
+-63		12.67	Thoman
+-62		9.90	Thoman
+-61		7.82	faiby
+-60		13.62	faiby Leva wildmagnus
+-59		8.94	Thoman
+-58		5.82	igntuL
+-57		10.74	Thoman
+-56		8.91	faiby
+-55		8.39	Drarker
+-54		5.12	Thoman
+-53		14.99	igntuL
+-52		10.45	faiby
+-51		14.54	igntuL
+-50		14.22	igntuL
+-49		14.67	igntuL
+-48		9.19	Vogtek
+-47		10.66	igntuL
+-46		6.47	faiby
+-45		8.39	Leva
+-44		6.53	igntuL faiby
+-43		6.97	igntuL
+-42		6.61	igntuL
+-41		9.58	wildmagnus
+-40		8.74	Thoman
+-39		9.03	Leva
+-38		9.17	Skycrafter
+-37		17.74	igntuL wildmagnus
+-36		13.04	igntuL
+-35		10.38	igntuL
+-34		5.90	igntuL
+-33		9.19	igntuL
+-32		19.34	betta mufat
+-31		6.52	Skycrafter igntuL
+-30		8.60	faiby
+-29		11.64	faiby
+-28		8.99	Thoman
+-27		12.99	igntuL
+-26		5.87	wildmagnus
+-25		8.49	maB-TM igntuL
+-24		20.47	Leva
+-23		10.84	Thoman igntuL
+-22		8.96	igntuL
+-21		26.31	igntuL Leva
+-20		6.13	uncleenk
+-19		17.04	mufat Leva igntuL
+-18		6.78	faiby
+-17		5.99	Leva igntuL
+-16		32.07	Leva
+-15		8.72	faiby
+-14		7.78	wildmagnus
+-13		13.74	Drarker
+-12		6.46	Skycrafter
+-11		14.00	Leva wildmagnus
+-10		8.99	mufat faiby igntuL
+-9		13.71	wildmagnus
+-8		13.54	igntuL
+-7		18.49	igntuL
+-6		6.67	Skycrafter igntuL
+-5		8.25	faiby
+-4		17.18	Vogtek Leva igntuL
+-3		8.25	Skycrafter happy faiby
+-2		8.62	igntuL faiby
+-1		8.64	Skycrafter
+0		10.26	igntuL
+1		20.75	igntuL faiby
+2		10.95	faiby
+3		9.38	Vogtek igntuL
+4		8.98	igntuL
+5		11.95	Leva
+6		20.13	igntuL
+7		5.07	igntuL
+8		13.14	faiby
+9		7.42	faiby
+10		8.42	igntuL wildmagnus
+11		7.70	faiby 
+12		4.76	Drarker
+13		11.23	Thoman
+14		11.83	Leva
+15		7.96	mufat igntuL
+16		7.50	mufat igntuL
+17		16.23	igntuL Thoman
+18		15.60	Leva faiby igntuL
+19		5.37	faiby
+20		7.87	igntuL thom
+21		6.09	igntuL
+22		6.51	Leva
+23		20.72	delete_club igntuL
+24		14.44	igntuL
+25		6.72	igntuL maB-TM
+26		9.26	faiby
+27		10.72	igntuL
+28		9.64	Skycrafter goldenowl igntuL
+29		7.97	Leva
+30		15.80	igntuL
+31		8.66	Drarker
+32		31.65	igntuL
+33		29.10	igntuL
+34		7.91	faiby
+35		11.13	igntuL faiby
+36		17.29	igntuL
+37		16.89	Leva
+38		7.93	wildmagnus
+39		9.82	Drarker
+40		7.16	Skycrafter
+41		15.30	Leva
+42		5.66	Leva
+43		18.94	Vogtek
+44		31.96	wildmagnus igntuL
+45		8.28	Thoman
+46		9.70	BananaKing Leva
+47		9.58	igntuL
+48		11.56	igntuL
+49		33.72	Skycrafter igntuL
+50		9.95	igntuL
+51		10.56	igntuL
+52		8.38	faiby
+53		19.24	igntuL
+54		11.13	igntuL
+55		7.57	faiby
+56		15.12	Drarker
+57		10.72	Skycrafter
+58		12.33	igntuL Skycrafter
+59		16.17	igntuL
+60		10.19	igntuL
+61		7.25	igntuL
+62		15.57	igntuL
+63		9.26	igntuL
+64		4.86	Leva
+65		17.81	igntuL MichaelNinja
+66		19.57	igntuL
+67		16.07	igntuL
+68		5.53	igntuL
+69		9.13	igntuL
+70		12.46	Drarker igntuL
+71		10.68	Kristiano igntuL
+72		18.42	igntuL
+73		19.80	igntuL
+74		9.83	Leva
+75		13.17	faiby
+76		11.37	igntuL
+77		9.90	faiby
+78		20.80	igntuL
+79		8.32	igntuL faiby
+80		14.52	igntuL q25c
+81		10.11	mufat
+82		9.70	igntuL
+83		12.93	faiby
+84		12.25	igntuL
+85		16.89	igntuL
+86		9.56	igntuL
+87		11.66	igntuL
+88		8.66	Leva
+89		12.56	Vogtek igntuL
+90		16.08	igntuL
+91		4.52	Thoman Drarker
+92		8.23	igntuL
+93		11.08	igntuL
+94		11.77	faiby
+95		19.21	igntuL
+96		9.16	igntuL
+97		9.53	igntuL
+98		20.39	ezm
+99		11.99	faiby
+100		6.98	igntuL
+101		13.37	igntuL
+102		12.50	maB-TM Skycrafter
+103		11.22	igntuL
+104		14.59	igntuL
+105		12.42	igntuL
+106		10.78	igntuL
+107		8.36	DonJohnson
+108		14.89	faiby
+109		7.41	faiby
+110		6.82	faiby
+111		12.25	Kristiano
+112		8.75	igntuL
+113		19.65	igntuL
+114		10.33	faiby Kristiano
+115		11.91	faiby
+116		11.84	igntuL
+117		11.85	ezm happy faiby
+118		9.59	igntuL
+119		15.34	igntuL
+120		9.95	mufat
+121		10.01	mufat
+122		9.05	Leva
+123		8.54	Leva
+124		13.48	igntuL
+125		13.40	igntuL
+126		12.79	igntuL
+127		24.19	igntuL
+128		9.86	igntuL
+129		18.90	igntuL faiby
+130		17.17	igntuL
+131		10.83	igntuL
+132		15.06	igntuL
+133		12.54	Leva
+134		8.05	igntuL
+135		13.63	igntuL
+136		24.42	faiby
+137		10.68	igntuL
+138		10.18	igntuL
+139		8.65	Thoman igntuL
+140		9.42	Leva
+141		9.38	igntuL
+142		10.58	faiby Leva
+143		8.48	igntuL
+144		10.74	Thoman
+145		13.48	igntuL
+146		6.85	igntuL
+147		9.78	igntuL
+148		9.05	igntuL
+149		11.26	charlie igntuL
+150		6.63	igntuL
+151		7.88	igntuL
+152		9.23	maB-TM happy
+153		9.81	maB-TM
+154		9.09	Leva
+155		14.41	Drarker
+156		10.72	igntuL
+157		14.48	Leva
+158		6.47	faiby
+159		13.84	igntuL
+160		14.41	igntuL
+161		9.59	Leva
+162		11.33	igntuL
+163		8.87	Leva Skycrafter
+164		12.50	Drarker igntuL
+165		10.06	igntuL
+166		10.48	igntuL maB-TM
+167		14.89	Leva
+168		15.68	Drarker
+169		7.86	logout igntuL
+170		9.28	igntuL
+171		13.98	igntuL
+172		10.63	igntuL
+173		11.64	igntuL faiby
+174		11.63	igntuL
+175		10.79	Kristiano
+176		8.27	igntuL
+177		10.20	faiby
+178		9.98	igntuL
+179		10.14	igntuL
+180		12.69	Skycrafter igntuL maB-TM
+181		8.50	igntuL
+182		9.13	faiby
+183		6.98	Leva
+184		13.64	maB-TM igntuL
+185		8.99	igntuL
+186		8.84	Leva
+187		17.42	igntuL
+188		8.09	thom
+189		6.38	Leva
+190		18.64	igntuL
+191		13.62	igntuL
+192		9.32	mufat igntuL
+193		10.34	igntuL
+194		10.25	igntuL
+195		8.32	igntuL
+196		14.74	Leva igntuL
+197		13.60	KAT
+198		12.63	igntuL
+199		11.25	igntuL
+200		8.25	maB-TM Leva
+201		10.94	igntuL
+202		12.84	Drarker
+203		15.90	igntuL
+204		4.93	igntuL
+205		13.36	faiby igntuL
+206		7.52	faiby
+207		24.57	igntuL
+208		9.06	igntuL
+209		7.04	igntuL
+210		17.92	igntuL
+211		9.42	Leva
+212		9.54	faiby Vogtek
+213		17.76	faiby
+214		11.72	igntuL
+215		7.61	igntuL
+216		10.51	igntuL
+217		7.45	happy
+218		21.61	KAT
+219		8.22	igntuL
+220		12.80	threadd igntuL
+221		9.42	igntuL
+222		10.79	igntuL
+223		9.86	faiby
+224		8.37	igntuL
+225		7.47	igntuL
+226		10.95	igntuL
+227		19.35	igntuL
+228		10.93	igntuL
+229		9.57	igntuL
+230		10.77	igntuL
+231		16.62	igntuL
+232		11.45	igntuL
+233		9.73	Vogtek igntuL
+234		22.90	igntuL faiby
+235		21.22	igntuL
+236		21.66	igntuL
+237		25.97	igntuL faiby
+238		10.79	Thoman igntuL
+239		16.46	wildmagnus igntuL
+240		18.41	igntuL
+241		13.38	igntuL
+242		10.75	faiby
+243		16.75	igntuL
+244		23.16	faiby
+245		12.18	igntuL
+246		10.54	betta igntuL
+247		20.52	igntuL
+248		12.48	betta igntuL
+249		12.45	faiby
+250		14.40	betta
+251		23.89	igntuL
+252		12.32	igntuL
+253		8.21	Leva
+254		26.54	igntuL
+255		20.98	igntuL
+256		10.94	maB-TM Leva
+257		10.81	faiby
+258		16.78	igntuL
+259		8.68	igntuL
+260		14.53	igntuL
+261		8.23	xnferno
+262		7.44	faiby
+263		16.98	igntuL
+264		8.37	betta
+265		10.87	Leva igntuL
+266		21.63	igntuL
+267		17.13	igntuL wildmagnus
+268		14.46	faiby
+269		15.05	igntuL
+270		10.01	igntuL
+271		20.45	igntuL
+272		11.45	Vogtek
+273		16.81	betta charlie
+274		16.99	igntuL
+275		22.44	igntuL
+276		23.67	wildmagnus faiby
+277		13.67	wildmagnus
+278		18.95	Drarker
+279		10.25	Thoman faiby
+280		25.20	igntuL faiby
+281		17.09	mufat igntuL
+282		8.05	igntuL
+283		14.96	igntuL
+284		7.02	igntuL
+285		8.49	maB-TM Skycrafter
+286		21.56	igntuL
+287		12.21	Drarker
+288		13.12	Drarker igntuL Skycrafter
+289		15.74	igntuL
+290		11.52	igntuL
+291		12.93	ezm igntuL
+292		10.40	igntuL
+293		12.90	Skycrafter
+294		7.13	igntuL
+295		7.94	Leva
+296		8.86	igntuL
+297		7.52	igntuL f1uffy
+298		17.43	igntuL
+299		15.04	igntuL faiby
+300		20.21	igntuL
+301		9.71	faiby
+302		21.16	igntuL
+303		13.21	igntuL
+304		11.77	igntuL Skycrafter
+305		12.51	igntuL
+306		14.32	igntuL
+307		16.97	igntuL Skycrafter
+308		14.48	Leva
+309		12.86	faiby
+310		12.63	faiby
+311		12.83	igntuL
+312		21.44	Kimura maB-TM
+313		11.80	igntuL faiby
+314		19.17	faiby
+315		12.88	Vogtek
+316		8.84	Drarker
+317		12.80	igntuL
+318		8.32	wildmagnus
+319		6.16	igntuL faiby Drarker
+320		20.35	igntuL
+321		22.05	igntuL
+322		10.90	Drarker
+323		8.14	igntuL
+324		5.26	faiby
+325		17.60	igntuL
+326		8.63	faiby
+327		12.01	Leva
+328		28.12	igntuL
+329		13.56	faiby
+330		15.83	igntuL
+331		8.54	faiby Leva
+332		7.76	igntuL
+333		11.60	faiby igntuL
+334		16.07	faiby igntuL
+335		10.87	faiby
+336		14.80	Leva
+337		10.87	igntuL
+338		21.89	igntuL
+339		11.00	igntuL
+340		11.49	igntuL
+341		12.51	mufat igntuL
+342		12.38	faiby
+343		9.56	Leva igntuL
+344		11.74	Leva
+345		7.18	igntuL
+346		17.54	igntuL faiby
+347		16.42	Leva
+348		14.26	igntuL
+349		9.07	faiby
+350		7.23	mufat igntuL
+351		13.26	Drarker
+352		10.13	faiby
+353		14.70	igntuL
+354		8.26	faiby
+355		13.80	Leva igntuL
+356		9.14	igntuL
+357		10.29	igntuL
+358		17.76	igntuL
+359		14.26	igntuL
+360		32.86	igntuL faiby
+361		10.19	igntuL
+362		17.46	Leva faiby q25c
+363		9.39	Leva
+364		10.76	igntuL
+365		5.83	faiby
+366		20.08	igntuL
+367		8.96	faiby
+368		12.56	igntuL
+369		7.86	Drarker
+370		11.19	igntuL
+371		10.17	igntuL
+372		11.71	igntuL faiby
+373		9.46	faiby
+374		16.61	igntuL
+375		10.59	faiby
+376		11.46	igntuL
+377		17.22	igntuL
+378		16.41	igntuL faiby
+379		10.26	faiby
+380		15.22	igntuL Drarker faiby
+381		22.37	Thoman Leva igntuL
+382		13.56	igntuL
+383		5.76	igntuL
+384		6.08	igntuL faiby
+385		11.54	faiby
+386		13.42	igntuL
+387		12.45	igntuL
+388		18.35	igntuL faiby Thoman
+389		17.36	igntuL
+390		12.15	faiby igntuL
+391		9.31	faiby igntuL
+392		8.76	uncleenk
+393		9.00	faiby
+394		11.96	igntuL
+395		10.64	faiby
+396		17.68	faiby igntuL
+397		11.46	Leva
+398		12.37	Leva
+399		8.81	igntuL
+400		11.69	faiby Skycrafter igntuL
+401		11.22	faiby mufat
+402		7.27	faiby
+403		11.22	igntuL
+404		12.05	igntuL
+405		5.34	igntuL
+406		7.59	Leva
+407		7.25	faiby mufat
+408		10.88	Drarker
+409		7.89	Leva
+410		12.06	faiby igntuL
+411		16.43	faiby
+412		8.26	igntuL
+413		6.98	Leva
+414		7.70	igntuL
+415		9.94	faiby
+416		13.29	Vogtek
+417		6.83	wildmagnus
+418		9.88	faiby
+419		11.63	Leva
+420		9.17	Drarker igntuL
